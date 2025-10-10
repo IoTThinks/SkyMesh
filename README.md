@@ -3,6 +3,7 @@ Thông tin về dự án LoRa Mesh cộng đồng tại Việt Nam.
 
 ## 1. Mục tiêu
 Thành lập và triển khai mạng cộng đồng LoRa Mesh tầm xa nhằm xây dựng hạ tầng truyền thông không dây ổn định, tiết kiệm năng lượng, phục vụ cho các ứng dụng IoT, đô thị thông minh, nông nghiệp thông minh, quan trắc môi trường, và an ninh giám sát tại Việt Nam.
+<img width="1028" height="662" alt="image" src="https://github.com/user-attachments/assets/19b97bda-8fe2-439e-a0d7-c0ceadf7d837" />
 
 ## 2. Cơ sở và lý do
 - Công nghệ LoRa (Long Range) cho phép truyền dữ liệu ở khoảng cách xa, tiêu thụ năng lượng thấp, phù hợp cho thiết bị cảm biến và trạm IoT.
