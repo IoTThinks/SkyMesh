@@ -13,7 +13,7 @@ Thành lập và triển khai mạng cộng đồng LoRa Mesh tầm xa nhằm x�
 ## 3. Phạm vi triển khai
 - Giai đoạn 1: Thử nghiệm tại các khu vực đô thị và nông nghiệp trọng điểm (ví dụ: TP. Hồ Chí Minh, Hà Nội và Đà Nẵng).
 - Giai đoạn 2: Triển khai ứng dụng thông minh diện rộng, AI và phân tích dữ liệu lớn (Big Data).
-- Giai đoạn 3: Mở rộng phạm vi phủ sóng toàn quốc, kết nối các điểm mesh vùng sâu vùng xa, khu công nghiệp, và các hệ thống cảm biến phân tán.
+- Giai đoạn 3: Mở rộng kết nối các điểm mesh ở các thành phố khác và vùng sâu vùng xa.
 
 ## 4. Công nghệ và hạ tầng
 - Chuẩn LoRa 920-923Mhz theo quy định tần số tại Việt Nam.
