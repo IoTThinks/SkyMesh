@@ -1,5 +1,5 @@
-# Mạng LoRa Mesh cộng đồng tại Vietnam
-Thông tin về dự án LoRa Mesh cộng đồng tại Việt Nam.
+# Mạng LoRa Mesh cộng đồng cho IoT tại Vietnam
+Thông tin về dự án LoRa Mesh cộng đồng cho thiết bị IoT tại Việt Nam.
 
 ## 1. Mục tiêu
 Thành lập và triển khai mạng cộng đồng LoRa Mesh tầm xa nhằm xây dựng hạ tầng truyền thông không dây ổn định, tiết kiệm năng lượng, phục vụ cho các ứng dụng IoT, đô thị thông minh, nông nghiệp thông minh, quan trắc môi trường, và an ninh giám sát tại Việt Nam.
@@ -27,9 +27,9 @@ Thành lập và triển khai mạng cộng đồng LoRa Mesh tầm xa nhằm x�
 - An ninh & cứu hộ: Thiết lập kênh liên lạc mesh trong tình huống khẩn cấp, vùng không có sóng di động.
 
 ## 6. Đối tác và hợp tác
-- Cộng đồng IoT, LoRa và ứng dụng thông minh.
+- Cộng đồng IoT và LoRa
+- Cộng đồng ứng dụng thông minh
 - Đơn vị nghiên cứu – triển khai
 
 ## 7. Kỳ vọng và tác động
-- Thúc đẩy ứng dụng công nghệ số trong sản xuất, đô thị và quản lý tài nguyên.
-- Góp phần vào chuyển đổi số quốc gia và phát triển hạ tầng thông minh tại Việt Nam.
+- Thúc đẩy ứng dụng công nghệ số trong đô thị, nhà máy, khu công nghiệp và nông trại lớn.
