@@ -15,7 +15,7 @@ Thành lập và triển khai mạng LoRa Mesh cộng đồng tầm xa nhằm x�
 - Nhu cầu triển khai mạng kết nối độc lập, không phụ thuộc vào hạ tầng viễn thông truyền thống, ngày càng cao tại Việt Nam, đặc biệt trong các lĩnh vực nông nghiệp, năng lượng, logistics và quản lý hạ tầng công cộng.
 
 ## 3. Phạm vi triển khai
-- Giai đoạn 1: Thử nghiệm kết nối LoRa Mesh tại các thành phố và tỉnh thành ở Việt Nam.
+- Giai đoạn 1: Kết nối LoRa Mesh tại các thành phố và tỉnh thành ở Việt Nam.
 - Giai đoạn 2: Triển khai ứng dụng cảm biến diện rộng.
 - Giai đoạn 3: Triển khai ứng dụng thông minh diện rộng.
 
