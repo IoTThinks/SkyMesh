@@ -3,6 +3,7 @@ Thông tin về mạng LoRa Mesh cộng đồng cho thiết bị IoT tại Việ
 - Mạng ngang hàng được xây dựng và góp sức từ cộng đồng.
 - Chuyên cho khối thiết bị IoT
 - Nguồn mở
+- Wiki: https://github.com/IoTThinks/LoRaMeshVietnam/wiki
 
 ## 1. Mục tiêu
 Thành lập và triển khai mạng LoRa Mesh cộng đồng tầm xa nhằm xây dựng hạ tầng truyền thông không dây ổn định, tiết kiệm năng lượng, phục vụ cho các ứng dụng IoT, đô thị thông minh, nông nghiệp thông minh, quan trắc môi trường, và an ninh giám sát tại Việt Nam.
