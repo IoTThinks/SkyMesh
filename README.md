@@ -3,7 +3,7 @@ Thông tin về mạng LoRa Mesh cộng đồng cho thiết bị IoT tại Việ
 - Mạng ngang hàng được xây dựng và góp sức từ cộng đồng.
 - Chuyên cho khối thiết bị IoT
 - Cộng đồng: [Cộng đồng Easy LoRa](https://www.facebook.com/groups/iotthinks)
-- Tài liệu: [WiKi](https://github.com/IoTThinks/LoRaMeshVietnam/wiki)
+- Tài liệu: [WiKi LoRaMesh Vietnam](https://github.com/IoTThinks/LoRaMeshVietnam/wiki)
 - Thiết bị LoRa Mesh: [Các thiết bị được hỗ trợ chính thức](https://github.com/IoTThinks/LoRaMeshVietnam/wiki/Các-thiết-bị-được-hỗ-trợ-chính-thức)
 
 ## 1. Mục tiêu
