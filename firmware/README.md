@@ -11,10 +11,12 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * Download the latest bin file above
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
 * Select Custom Firmware
-<img height="512" alt="image" src="https://github.com/user-attachments/assets/d75c1b40-a349-488f-b623-77fbab06ddca" />
+<img height="384" alt="image" src="https://github.com/user-attachments/assets/d75c1b40-a349-488f-b623-77fbab06ddca" />
 
-* Select the downloaded bin file and click Flash
-<img height="512" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
+* Select the downloaded bin file
+* Do NOT erase device if you want to keep the existing configuration
+* Click Flash
+<img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
 
 ## Change logs:
 ### firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: 
