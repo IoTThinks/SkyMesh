@@ -8,7 +8,7 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * For example: firmware-repeater-heltecv3-v1.9.1-powersaving01.bin. This is the firmware for repeater using Heltec v3, based on MeshCore v1.9.1 (main) with added powersaving and the number is 01. The number is our own version.
 
 ## Instruction to flash
-* Download the latest bin file above
+* Download the latest bin file [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
 * Select Custom Firmware
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/d75c1b40-a349-488f-b623-77fbab06ddca" />
