@@ -21,16 +21,18 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 ## Repeaters
 This is the changelog for repeaters:
 
-### firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: 
+### 01. firmware-repeater-heltecv3-v1.9.1-powersaving01.bin: 
 Reduced from 47mA down to 7mA. 
 * To deepsleep after 2 minutes.
 
-### firmware-repeater-heltecv3-v1.9.1-powersaving02.bin: 
+### 02. firmware-repeater-heltecv3-v1.9.1-powersaving02.bin: 
 Reduced more power consumption. Optimized OLED, adverts and shorter operation time.
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
 * When waken up from deepsleep: To sleep again in 5s. No OLED. No advert.
 
 <img height="512" alt="image" src="https://github.com/user-attachments/assets/203c3459-5d14-4848-98d2-f75acdcfbf3e" />
 
-## Companion
+## Companions
 Coming soon
+
+## Sensors
