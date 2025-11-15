@@ -34,6 +34,7 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 * Light sleep: To wake up when receiving a LoRa packet and light sleep again after 5s.
 * Periodically wakeup: To wake up every 30 minutes to do some periodically tasks and and lightsleep again after 5s.
 * Known issue: OTA via WiFi is not working yet.
+* Source code changes: https://github.com/meshcore-dev/MeshCore/compare/main...IoTThinks:MeshCore:powersaving
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/d968ed38-9965-487e-a02e-7a571f7e7d90" />
 
