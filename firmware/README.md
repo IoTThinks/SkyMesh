@@ -48,3 +48,6 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 * Click Flash
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/a783b5a6-494e-44f7-b38c-63e4277039e1" />
 
+## Support
+If you want custom firmware or private support, please [contact us](https://iotthinks.com/contact-us/).
+
