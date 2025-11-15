@@ -37,6 +37,9 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 
 <img height="384" alt="image" src="https://github.com/user-attachments/assets/d968ed38-9965-487e-a02e-7a571f7e7d90" />
 
+### firmware-repeater-heltecv4-v1.10.0-powersaving03.bin: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv4-v1.10.0-powersaving03.bin)
+Same feature but for Heltec v4.
+
 ## Instruction to flash custom firmware
 * Download the latest bin file [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
 * Go to Web Flasher: https://flasher.meshcore.co.uk/
