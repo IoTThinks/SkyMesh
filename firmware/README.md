@@ -9,7 +9,7 @@ Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
 * For example: firmware-repeater-heltecv3-v1.9.1-powersaving01.bin. This is the firmware for repeater using Heltec v3, based on MeshCore v1.9.1 (main) with added powersaving and the number is 01. The number is our own version.
 
 ## Repeaters
-The latest firmware is on TOP.
+The latest firmware is on **TOP**.
 * You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
 
 ### Power Saving 04
