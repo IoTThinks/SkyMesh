@@ -14,6 +14,12 @@ Naming convention: role-boardtype-feature[NUMBER]
 The latest firmware is on **TOP**.
 * You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
 
+### Power Saving 05
+Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
+* Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
+* To wake up 2 minutes during FIRST boot or restart. This is to allow Repeater Setup via UART / Serial cable.
+* Source code: https://github.com/IoTThinks/MeshCore/tree/powersaving
+
 ### Power Saving 04
 Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
 * Download of bin files: [HERE](https://github.com/IoTThinks/LoRaMeshVietnam/tree/main/firmware)
