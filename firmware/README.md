@@ -5,8 +5,8 @@ Custom firmware files are for Meshcore.
 * The firmware is provided as it is without any warranty or support.
 * If you want custom firmware or private support, please [contact us](https://iotthinks.com/contact-us/).
 
-Naming convention: firmware-role-boardtype-MeshCore_Version-feature[NUMBER]
-* For example: firmware-repeater-heltecv3-v1.9.1-powersaving01.bin. This is the firmware for repeater using Heltec v3, based on MeshCore v1.9.1 (main) with added powersaving and the number is 01. The number is our own version.
+Naming convention: role-boardtype-feature[NUMBER]
+* For example: repeater-heltecv3-powersaving01.bin. This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
 
 ## Repeaters
 The latest firmware is on **TOP**.
@@ -14,7 +14,7 @@ The latest firmware is on **TOP**.
 
 ### Power Saving 04
 Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
-* Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.10.0-powersaving04.bin), [Heltec v4 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv4-v1.10.0-powersaving04.bin)
+* Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/repeater-heltecv3-powersaving04.bin), [Heltec v4 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/repeater-heltecv4-powersaving04.bin)
 * Do not sleep when WiFi is not off likely due to OTA via WiFi. 
 * To reboot to out of OTA and back to powersaving mode.
 * Power saving mode: Still 10mA.
@@ -23,7 +23,7 @@ Based on MeshCore v1.10.0 (main). Fixed OTA via WiFi.
 
 ### Power Saving 03
 Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
-* Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.10.0-powersaving03.bin), [Heltec v4 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv4-v1.10.0-powersaving03.bin)
+* Download of bin files: [Heltec v3 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/repeater-heltecv3-powersaving03.bin), [Heltec v4 (Tested)](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/repeater-heltecv4-powersaving03.bin)
 * To use light sleep instead of deepsleep
 * No latency due to quicker wakeup
 * First boot: To wake up for 30s to send an advert at 18th second.
@@ -36,7 +36,7 @@ Based on MeshCore v1.10.0 (main). 9mA power consumption with no latency.
 
 ### Power Saving 02
 Reduced more power consumption. Optimized OLED, adverts and shorter operation time.
-* Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.9.1-powersaving02.bin)
+* Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/repeater-heltecv3-powersaving02.bin)
 * Based on MeshCore repeater v1.9.1 - main branch
 * In normal start / reset: To wake up 30s to allow sending an advert. To power on OLED for a while.
 * When waken up from deepsleep: To sleep again in 5s. No OLED. No advert.
@@ -46,7 +46,7 @@ Reduced more power consumption. Optimized OLED, adverts and shorter operation ti
 
 ### Power Saving 01
 Reduced from 47mA down to 7mA. 
-* Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/firmware-repeater-heltecv3-v1.9.1-powersaving01.bin)
+* Download of bin files: [Heltec v3](https://github.com/IoTThinks/LoRaMeshVietnam/blob/main/firmware/repeater-heltecv3-powersaving01.bin)
 * Based on MeshCore repeater v1.9.1 - main branch
 * To deepsleep after 2 minutes.
 
