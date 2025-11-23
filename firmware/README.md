@@ -8,7 +8,7 @@ Custom firmware files are for Meshcore.
 Pre-compiled bin files: [firmware](https://github.com/IoTThinks/EasySkyMesh/tree/main/firmware)
 * Naming convention: role-boardtype-feature[NUMBER]
 * repeater-heltecv3-powersaving01.bin: This is the firmware for repeater using Heltec v3 with powersaving feature and the number is 01. The number is our own version.
-* Please check the [Instruction to flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/edit/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
+* Please check the [Instruction to flash custom firmware](https://github.com/IoTThinks/EasySkyMesh/blob/main/firmware/README.md#instruction-to-flash-custom-firmware) below.
 
 ## Repeaters
 The latest firmware is on **TOP**.
