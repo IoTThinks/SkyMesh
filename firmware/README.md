@@ -13,6 +13,7 @@ Pre-compiled bin files: [firmware](https://github.com/IoTThinks/EasySkyMesh/tree
 ## Repeaters
 The latest firmware is on **TOP**.
 * You can check the Version in MeshCore App > Remote management to confirm the flashed verion.
+* Coming feature: Lightsleep for NRF52840 repeaters to achieve 4-6mA.
 
 ### Power Saving 06
 Based on MeshCore v1.10.0 (main).
